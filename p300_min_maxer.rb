@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby1.9
+#!/usr/bin/env ruby
 
 # Take the file of p300 deltas by gene & find ones that have a large difference
 # One delta has to be positive & one has to be negative
